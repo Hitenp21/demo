@@ -1,9 +1,6 @@
 
 console.log("hello");
 
-<<<<<<< Updated upstream
-console.log("1");
+console.log("3");
 
-=======
->>>>>>> Stashed changes
 console.log("Hiten");
