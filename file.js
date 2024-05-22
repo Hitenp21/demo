@@ -1,1 +1,1 @@
-console.log("object");
+console.log("add new file.js");

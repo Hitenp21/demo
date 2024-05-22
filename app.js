@@ -5,3 +5,6 @@
 
 console.log("hello");
 
+function abc () {
+    
+}
